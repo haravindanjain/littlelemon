@@ -150,4 +150,4 @@ Apple Silicon Users (M1/M2): If your AKS cluster is on x86 (AMD64), you must bui
 
 ### 5. Access the App
 
-Open your browser and navigate to <EXTERNAL-IP>
+Open your browser and navigate to EXTERNAL-IP
